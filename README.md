@@ -42,14 +42,10 @@ Any Python code you wrote as part of your analysis
 The data set you used (which you will not need to submit)
 You may wish to use Jupyter notebook, in which case you can submit both the code you wrote and the report of your findings in the same document. Otherwise, you will need to submit your report and code separately. If you would like a notebook template to help organize your investigation, you can find a link in the resources at the bottom of the page or you can click [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd0f5a_investigate-a-dataset-template/investigate-a-dataset-template.ipynb). You can also complete and submit the project in the classroom by going to the Project Notebook part of this lesson.
 
-**Selected dataset**: [No-show appointments](https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv&sa=D&ust=1510020454356000&usg=AFQjCNEEOPkttwxzEyo0gjL5cfxq6ynIgg)
+**Selected dataset**: [TMDB Movie Dataset](https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv&sa=D&ust=1591510437422000)
 
 **Dataset Description**:
-This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
-- ‘ScheduledDay’ tells us on what day the patient set up their appointment.
-- ‘Neighborhood’ indicates the location of the hospital.
-- ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
-- Be careful about the encoding of the last column: it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
+This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue,cast,release year.
 
 ### Step Three - Analyze Your Data
 Brainstorm some questions you could answer using the data set you chose, then start answering those questions. You can find some questions in the [data set options](https://docs.google.com/document/d/e/2PACX-1vTlVmknRRnfy_4eTrjw5hYGaiQim5ctr9naaRd4V9du2B5bxpd8FEH3KtDgp8qVekw7Cj1GLk1IXdZi/pub?embedded=True) to help you get started.
